@@ -67,3 +67,4 @@ Continue with the course to add verification and deployment. Keep `package-lock.
 ## Configuration
 
 The server uses port `3000` unless `PORT` is set. The home page displays `APP_VERSION`, defaulting to `development`. Neither variable is required to run the starter locally.
+# cicd-lab-01
